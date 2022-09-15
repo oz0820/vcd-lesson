@@ -1,1 +1,1 @@
-# vcd-lesson
+# vcd-lesson講義で使う提出用リポジトリ
